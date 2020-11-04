@@ -10,6 +10,10 @@
         "AUUID": {
             "description": "UUID充当各个配置的路径和密码，建议修改和妥善保存,可生成UUID的网站: https://www.uuidgenerator.net",
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+        }, 
+        "FSTR": {
+            "description": "对应的PATH不同的前缀符号而已",
+            "value": "stbstring"
         },
         "CADDYIndexPage": {
             "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/mixool/kuhero/blob/master/etc/CADDYIndexPage.md",
@@ -28,7 +32,7 @@
             "value": "chacha20-ietf-poly1305"
         }
     },
-    "website": "https://github.com/mixool/kuhero",
-    "repository": "https://github.com/mixool/kuhero",
+    "website": "https://github.com/rsd1987/kuhero",
+    "repository": "https://github.com/rsd1987/kuhero",
     "stack": "container"
 }

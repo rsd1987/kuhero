@@ -21,11 +21,11 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/mixool/kuhero/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/rsd1987/kuhero/master/etc/Caddyfile"
         },
         "CONFIGV2RAY": {
             "description": "自定义网络地址读取配置运行V2RAY，不熟悉V2RAY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/mixool/kuhero/master/etc/v2ray.json"
+            "value": "https://raw.githubusercontent.com/rsd1987/kuhero/master/etc/v2ray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
